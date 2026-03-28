@@ -7,11 +7,13 @@
   "type": "module",
   "main": "index.js",
   "scripts": {
-    "dev":"nodemon src/index.js",
+    "dev": "nodemon src/index.js",
     "test": "node src/index.js"
   },
   "dependencies": {
+    "dotenv": "^17.3.1",
     "express": "^5.2.1",
+    "mongoose": "^9.3.3",
     "nodemon": "^3.1.14"
   }
 }
