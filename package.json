@@ -1,0 +1,17 @@
+{
+  "name": "rest_api",
+  "version": "1.0.0",
+  "description": "A Rest Api making for understanding.",
+  "license": "ISC",
+  "author": "Tayyab",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev":"nodemon src/index.js",
+    "test": "node src/index.js"
+  },
+  "dependencies": {
+    "express": "^5.2.1",
+    "nodemon": "^3.1.14"
+  }
+}
