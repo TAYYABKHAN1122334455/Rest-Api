@@ -1,0 +1,282 @@
+[
+  {
+    "name": "iPhone 17",
+    "price": 799,
+    "featured": true,
+    "rating": 4.8,
+    "company": "apple",
+    "createdAt": "2026-03-01T10:00:00.000Z"
+  },
+  {
+    "name": "iPhone 17 Pro",
+    "price": 1099,
+    "featured": false,
+    "rating": 4.9,
+    "company": "apple",
+    "createdAt": "2026-03-02T10:00:00.000Z"
+  },
+  {
+    "name": "iPhone 17 Pro Max",
+    "price": 1199,
+    "featured": true,
+    "rating": 4.7,
+    "company": "apple",
+    "createdAt": "2026-03-03T10:00:00.000Z"
+  },
+  {
+    "name": "iPhone 17 Air",
+    "price": 999,
+    "featured": false,
+    "rating": 4.6,
+    "company": "apple",
+    "createdAt": "2026-03-04T10:00:00.000Z"
+  },
+  {
+    "name": "iPhone 16",
+    "price": 699,
+    "featured": false,
+    "rating": 4.5,
+    "company": "apple",
+    "createdAt": "2026-02-15T10:00:00.000Z"
+  },
+  {
+    "name": "iPhone 16e",
+    "price": 599,
+    "featured": true,
+    "rating": 4.4,
+    "company": "apple",
+    "createdAt": "2026-02-20T10:00:00.000Z"
+  },
+  {
+    "name": "Galaxy S26 Ultra",
+    "price": 1299,
+    "featured": false,
+    "rating": 4.8,
+    "company": "samsung",
+    "createdAt": "2026-03-05T10:00:00.000Z"
+  },
+  {
+    "name": "Galaxy S26",
+    "price": 899,
+    "featured": true,
+    "rating": 4.7,
+    "company": "samsung",
+    "createdAt": "2026-03-06T10:00:00.000Z"
+  },
+  {
+    "name": "Galaxy S25 FE",
+    "price": 649,
+    "featured": false,
+    "rating": 4.5,
+    "company": "samsung",
+    "createdAt": "2026-02-25T10:00:00.000Z"
+  },
+  {
+    "name": "Galaxy Z Fold7",
+    "price": 1799,
+    "featured": false,
+    "rating": 4.6,
+    "company": "samsung",
+    "createdAt": "2026-03-07T10:00:00.000Z"
+  },
+  {
+    "name": "Galaxy Z Flip7",
+    "price": 1099,
+    "featured": true,
+    "rating": 4.4,
+    "company": "samsung",
+    "createdAt": "2026-03-08T10:00:00.000Z"
+  },
+  {
+    "name": "Galaxy A56",
+    "price": 499,
+    "featured": false,
+    "rating": 4.3,
+    "company": "samsung",
+    "createdAt": "2026-02-10T10:00:00.000Z"
+  },
+  {
+    "name": "XPS 16 Laptop",
+    "price": 1899,
+    "featured": true,
+    "rating": 4.8,
+    "company": "dell",
+    "createdAt": "2026-03-09T10:00:00.000Z"
+  },
+  {
+    "name": "Dell 14 Plus Laptop",
+    "price": 849,
+    "featured": false,
+    "rating": 4.6,
+    "company": "dell",
+    "createdAt": "2026-03-10T10:00:00.000Z"
+  },
+  {
+    "name": "Inspiron 15 Laptop",
+    "price": 599,
+    "featured": false,
+    "rating": 4.4,
+    "company": "dell",
+    "createdAt": "2026-02-28T10:00:00.000Z"
+  },
+  {
+    "name": "Dell G16 Gaming Laptop",
+    "price": 1299,
+    "featured": true,
+    "rating": 4.7,
+    "company": "dell",
+    "createdAt": "2026-03-11T10:00:00.000Z"
+  },
+  {
+    "name": "XPS 14 Laptop",
+    "price": 1399,
+    "featured": false,
+    "rating": 4.9,
+    "company": "dell",
+    "createdAt": "2026-03-12T10:00:00.000Z"
+  },
+  {
+    "name": "Redmi Note 15 Pro",
+    "price": 329,
+    "featured": false,
+    "rating": 4.5,
+    "company": "mi",
+    "createdAt": "2026-03-13T10:00:00.000Z"
+  },
+  {
+    "name": "Xiaomi 15",
+    "price": 699,
+    "featured": true,
+    "rating": 4.6,
+    "company": "mi",
+    "createdAt": "2026-03-14T10:00:00.000Z"
+  },
+  {
+    "name": "Redmi Note 14",
+    "price": 249,
+    "featured": false,
+    "rating": 4.3,
+    "company": "mi",
+    "createdAt": "2026-02-18T10:00:00.000Z"
+  },
+  {
+    "name": "Poco X7 Pro",
+    "price": 449,
+    "featured": false,
+    "rating": 4.7,
+    "company": "mi",
+    "createdAt": "2026-03-15T10:00:00.000Z"
+  },
+  {
+    "name": "iPhone 17 Pro Max 512GB",
+    "price": 1399,
+    "featured": true,
+    "rating": 4.9,
+    "company": "apple",
+    "createdAt": "2026-03-16T10:00:00.000Z"
+  },
+  {
+    "name": "Galaxy S26 Plus",
+    "price": 999,
+    "featured": false,
+    "rating": 4.6,
+    "company": "samsung",
+    "createdAt": "2026-03-17T10:00:00.000Z"
+  },
+  {
+    "name": "Dell Inspiron 14 Laptop",
+    "price": 749,
+    "featured": false,
+    "rating": 4.5,
+    "company": "dell",
+    "createdAt": "2026-03-18T10:00:00.000Z"
+  },
+  {
+    "name": "Xiaomi 15 Ultra",
+    "price": 899,
+    "featured": true,
+    "rating": 4.8,
+    "company": "mi",
+    "createdAt": "2026-03-19T10:00:00.000Z"
+  },
+  {
+    "name": "Galaxy A36 512GB",
+    "price": 584,
+    "featured": false,
+    "rating": 4.6,
+    "company": "samsung",
+    "createdAt": "2026-03-20T00:00:00.000Z"
+  },
+  {
+    "name": "iPhone 17 Air Max",
+    "price": 1286,
+    "featured": true,
+    "rating": 4.4,
+    "company": "apple",
+    "createdAt": "2026-03-18T00:00:00.000Z"
+  },
+  {
+    "name": "Poco X7 Pro 1TB",
+    "price": 414,
+    "featured": false,
+    "rating": 4.7,
+    "company": "mi",
+    "createdAt": "2025-12-02T00:00:00.000Z"
+  },
+  {
+    "name": "Xiaomi 15 Ultra 1TB",
+    "price": 287,
+    "featured": true,
+    "rating": 4.4,
+    "company": "mi",
+    "createdAt": "2025-12-31T00:00:00.000Z"
+  },
+  {
+    "name": "Poco X7 Pro FE",
+    "price": 783,
+    "featured": false,
+    "rating": 4.1,
+    "company": "mi",
+    "createdAt": "2025-12-26T00:00:00.000Z"
+  },
+  {
+    "name": "XPS 16 Laptop 1TB",
+    "price": 1899,
+    "featured": false,
+    "rating": 4.8,
+    "company": "dell",
+    "createdAt": "2026-02-15T00:00:00.000Z"
+  },
+  {
+    "name": "iPhone 17 Pro",
+    "price": 1099,
+    "featured": true,
+    "rating": 4.9,
+    "company": "apple",
+    "createdAt": "2026-03-10T00:00:00.000Z"
+  },
+  {
+    "name": "Galaxy S26 Ultra",
+    "price": 1299,
+    "featured": false,
+    "rating": 4.7,
+    "company": "samsung",
+    "createdAt": "2026-01-25T00:00:00.000Z"
+  },
+  {
+    "name": "Redmi Note 15 Pro",
+    "price": 329,
+    "featured": true,
+    "rating": 4.5,
+    "company": "mi",
+    "createdAt": "2026-03-05T00:00:00.000Z"
+  },
+  {
+    "name": "Dell G16 Gaming",
+    "price": 1499,
+    "featured": false,
+    "rating": 4.6,
+    "company": "dell",
+    "createdAt": "2026-02-20T00:00:00.000Z"
+  }
+]
